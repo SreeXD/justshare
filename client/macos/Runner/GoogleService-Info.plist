@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>548707676404-9v96ntrks6alrdt95tekgocl9gp7ab3b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.548707676404-9v96ntrks6alrdt95tekgocl9gp7ab3b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwiSPx10qiHjx4TzsO7lZ0M46WaZrh8nU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>548707676404</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>sree.xd.justshare.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>justshare-39438</string>
+	<key>STORAGE_BUCKET</key>
+	<string>justshare-39438.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:548707676404:ios:2b2cbfbb7cc805e9772ea1</string>
+</dict>
+</plist>

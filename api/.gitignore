@@ -1,0 +1,7 @@
+/.vs
+/bin
+/obj
+
+/serviceAccountKey.json
+/appsettings.json
+/appsettings.Development.json
